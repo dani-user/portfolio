@@ -170,7 +170,7 @@ const Contact = () => {
                 </div>
                 <div className="flex items-center space-x-4">
                   <Phone className="text-cyan-400" size={20} />
-                  <span className="text-gray-300">+2519055007849</span>
+                  <span className="text-gray-300">+251905487849</span>
                 </div>
                 <div className="flex items-center space-x-4">
                   <MapPin className="text-cyan-400" size={20} />
